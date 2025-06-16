@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "campaignName": "Summer Sale 2024",
+    "channel": "Google",
+    "impressions": 125000,
+    "clicks": 4750,
+    "conversions": 142,
+    "cost": 890000,
+    "revenue": 4260000,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 2,
+    "campaignName": "Fashion Week Special",
+    "channel": "Facebook",
+    "impressions": 98000,
+    "clicks": 3920,
+    "conversions": 118,
+    "cost": 720000,
+    "revenue": 3540000,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 3,
+    "campaignName": "Spring Collection",
+    "channel": "Naver",
+    "impressions": 67000,
+    "clicks": 2010,
+    "conversions": 67,
+    "cost": 450000,
+    "revenue": 2010000,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 4,
+    "campaignName": "Brand Awareness",
+    "channel": "Instagram",
+    "impressions": 156000,
+    "clicks": 4680,
+    "conversions": 93,
+    "cost": 680000,
+    "revenue": 2790000,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 5,
+    "campaignName": "Product Launch",
+    "channel": "YouTube",
+    "impressions": 89000,
+    "clicks": 2670,
+    "conversions": 80,
+    "cost": 560000,
+    "revenue": 3200000,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 6,
+    "campaignName": "Summer Sale 2024",
+    "channel": "Google",
+    "impressions": 132000,
+    "clicks": 5016,
+    "conversions": 155,
+    "cost": 920000,
+    "revenue": 4650000,
+    "date": "2024-05-02"
+  },
+  {
+    "id": 7,
+    "campaignName": "Fashion Week Special",
+    "channel": "Facebook",
+    "impressions": 104000,
+    "clicks": 4160,
+    "conversions": 125,
+    "cost": 760000,
+    "revenue": 3750000,
+    "date": "2024-05-02"
+  },
+  {
+    "id": 8,
+    "campaignName": "Spring Collection",
+    "channel": "Naver",
+    "impressions": 71000,
+    "clicks": 2130,
+    "conversions": 71,
+    "cost": 480000,
+    "revenue": 2130000,
+    "date": "2024-05-02"
+  },
+  {
+    "id": 9,
+    "campaignName": "Brand Awareness",
+    "channel": "Instagram",
+    "impressions": 162000,
+    "clicks": 4860,
+    "conversions": 97,
+    "cost": 710000,
+    "revenue": 2910000,
+    "date": "2024-05-02"
+  },
+  {
+    "id": 10,
+    "campaignName": "Product Launch",
+    "channel": "YouTube",
+    "impressions": 94000,
+    "clicks": 2820,
+    "conversions": 85,
+    "cost": 590000,
+    "revenue": 3400000,
+    "date": "2024-05-02"
+  }
+]

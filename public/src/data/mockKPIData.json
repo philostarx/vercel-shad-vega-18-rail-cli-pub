@@ -1,0 +1,137 @@
+{
+    "status": "success",
+    "data": {
+        "totalImpressions": 176000,
+        "totalClicks": 8370,
+        "totalConversions": 469,
+        "totalCost": 14110,
+        "totalRevenue": 31720,
+        "averageCTR": 4.75,
+        "averageROAS": 2.25,
+        "averageCPA": 30.09,
+        "averageConversionRate": 5.6,
+        "channelBreakdown": [
+            {
+                "channel": "Google Ads",
+                "impressions": 35000,
+                "clicks": 1950,
+                "conversions": 117,
+                "cost": 3000,
+                "revenue": 7020,
+                "ctr": 5.57,
+                "roas": 2.34,
+                "cpa": 25.64,
+                "conversionRate": 6.0
+            },
+            {
+                "channel": "Facebook Ads",
+                "impressions": 28000,
+                "clicks": 1400,
+                "conversions": 78,
+                "cost": 2000,
+                "revenue": 4680,
+                "ctr": 5.0,
+                "roas": 2.34,
+                "cpa": 25.64,
+                "conversionRate": 5.57
+            },
+            {
+                "channel": "Instagram Ads",
+                "impressions": 40000,
+                "clicks": 2000,
+                "conversions": 120,
+                "cost": 3150,
+                "revenue": 7200,
+                "ctr": 5.0,
+                "roas": 2.29,
+                "cpa": 26.25,
+                "conversionRate": 6.0
+            },
+            {
+                "channel": "YouTube Ads",
+                "impressions": 55000,
+                "clicks": 2200,
+                "conversions": 110,
+                "cost": 4400,
+                "revenue": 7700,
+                "ctr": 4.0,
+                "roas": 1.75,
+                "cpa": 40.0,
+                "conversionRate": 5.0
+            },
+            {
+                "channel": "LinkedIn Ads",
+                "impressions": 8000,
+                "clicks": 320,
+                "conversions": 24,
+                "cost": 960,
+                "revenue": 1920,
+                "ctr": 4.0,
+                "roas": 2.0,
+                "cpa": 40.0,
+                "conversionRate": 7.5
+            },
+            {
+                "channel": "Twitter Ads",
+                "impressions": 10000,
+                "clicks": 400,
+                "conversions": 20,
+                "cost": 600,
+                "revenue": 1200,
+                "ctr": 4.0,
+                "roas": 2.0,
+                "cpa": 30.0,
+                "conversionRate": 5.0
+            }
+        ],
+        "dailyTrends": [
+            {
+                "date": "2025-01-20",
+                "impressions": 27000,
+                "clicks": 1350,
+                "conversions": 75,
+                "cost": 2000,
+                "revenue": 4500
+            },
+            {
+                "date": "2025-01-21",
+                "impressions": 43000,
+                "clicks": 1900,
+                "conversions": 104,
+                "cost": 3500,
+                "revenue": 6740
+            },
+            {
+                "date": "2025-01-22",
+                "impressions": 18000,
+                "clicks": 720,
+                "conversions": 44,
+                "cost": 1560,
+                "revenue": 3120
+            },
+            {
+                "date": "2025-01-23",
+                "impressions": 36000,
+                "clicks": 2000,
+                "conversions": 120,
+                "cost": 3000,
+                "revenue": 7200
+            },
+            {
+                "date": "2025-01-24",
+                "impressions": 52000,
+                "clicks": 2300,
+                "conversions": 126,
+                "cost": 4050,
+                "revenue": 8160
+            }
+        ]
+    },
+    "meta": {
+        "dateRange": {
+            "startDate": "2025-01-20",
+            "endDate": "2025-01-24"
+        },
+        "lastUpdated": "2025-01-27T10:00:00Z"
+    }
+}
